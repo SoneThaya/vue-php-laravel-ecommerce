@@ -2,7 +2,7 @@
 
 open `XAMPP control panel` start up `Apache` and `MySQL`
 
-start project - `php -S localhost:8000 -t public`
+start backend run `php -S localhost:8000 -t public` in main directory
 
 ## start up vue
 
